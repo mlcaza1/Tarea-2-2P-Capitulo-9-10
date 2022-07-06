@@ -18,11 +18,7 @@ NRC: 7309
 
 •	Utilizar el análisis de nodos para determinar cantidades desconocidas en un circuito
 
-•	Explicar los principios de un campo magnético
-
-•	Explicar los principios del electromagnetismo
-
-•	Describir el principio de operación de varios tipos de dispositivos electromagnéticos
+•	Explicar los principios de un campo magnético, el electromagnetismo y de la operación de varios tipos de dispositivos electromagnéticos
 
 •	Explicar la histéresis magnética
 
