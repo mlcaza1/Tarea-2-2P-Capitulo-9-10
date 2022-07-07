@@ -10,13 +10,7 @@ NRC: 7309
 
 # Objetivos
 
-•	Analizar tres métodos de resolver ecuaciones simultáneas
-
-•	Utilizar el método de la corriente en ramas para determinar cantidades desconocidas en un circuito
-
-•	Utilizar el análisis de lazos para determinar cantidades desconocidas en un circuito
-
-•	Utilizar el análisis de nodos para determinar cantidades desconocidas en un circuito
+•	Analizar tres métodos de resolver ecuaciones simultáneas ademas de sus metodos
 
 •	Explicar los principios de un campo magnético, el electromagnetismo y de la operación de varios tipos de dispositivos electromagnéticos
 
@@ -24,7 +18,6 @@ NRC: 7309
 
 •	Analizar el principio de inducción electromagnética
 
-•	Describir algunas aplicaciones de la inducción electromagnética
 
 # Marco Teorico 
 
@@ -126,36 +119,64 @@ NRC: 7309
 
 2. En cierto campo magnético, el área de sección transversal es de 0.5 m2 y el flujo es de 1500 μWb. ¿Cuál es la densidad de flujo?
 
+![imagen](https://user-images.githubusercontent.com/105812540/177707919-0968c47f-e00b-4957-a8fc-f3cdc422cf38.png)
+
+
 4. En un lugar dado, suponga que el campo magnético terrestre es de 0.6 gauss. Exprese esta densidad de flujo en teslas.
+
+![imagen](https://user-images.githubusercontent.com/105812540/177707881-f3b1321a-7c38-4ed6-9cab-4e240da5e08b.png)
+
 
 6. ¿Qué le sucede a la aguja de la brújula mostrada en la figura 10-9 cuando la corriente que circula a través del conductor se invierte?
 
 ![imagen](https://user-images.githubusercontent.com/105812540/177657553-cdcbfe14-ec1e-4ff4-8875-147a9e715c90.png)
 
+La aguja gira 180°
+
 8. Determine la reluctancia de un material con longitud de 0.28 m y área de sección transversal de 0.08 m2 si la permeabilidad absoluta es de 150 * 10^-7 Wb/At x m.
 
+![imagen](https://user-images.githubusercontent.com/105812540/177707849-1a687b92-17f6-44e8-ba41-6c53bb834b68.png)
+
+
 10. De manera característica, cuando se activa un solenoide, ¿se extiende o retrae el émbolo de imán?
+
+Al activar un selenoide el embolo se retrae	
 
 12. Explique la secuencia de los eventos mostrados en el circuito de la figura 10-43 comenzando cuando el interruptor 1 (SW1) se cierra.
 
 ![imagen](https://user-images.githubusercontent.com/105812540/177657760-4254df32-bd0a-4f87-8375-6e56ed022c1e.png)
 
+El relé conecta +9 voltios al pin Nro 2 y hace que se prenda la lampara Nro2 y que se apague la lampara Nro 1.
+
 14. ¿Cuál es la fuerza magnetizante en el problema 9 si la longitud del núcleo es de 0.2 m?
+
+![imagen](https://user-images.githubusercontent.com/105812540/177708044-c13df52b-38bb-4637-af80-a066cd0d40c4.png)
+
 
 16. En la figura 10-44, hay 500 vueltas. Determine
 
 ![imagen](https://user-images.githubusercontent.com/105812540/177657832-282a5869-7da5-4390-81f7-d1dc253e10da.png)
 
+![imagen](https://user-images.githubusercontent.com/105812540/177708096-b00b3613-0f50-4082-a7a6-8e0705601c56.png)
+
 18. De acuerdo con la ley de Faraday, ¿qué le sucede al voltaje inducido en una bobina dada si la razón de cambio del flujo magnético se duplica?
 
+El voltaje inducido se duplica cuando la tasa de cambio de lujo magnético se duplica.
+
 20. Un campo magnético cambia a razón de 3500  10^-3 Wb/s. ¿Cuánto voltaje se induce en una bobina de 500 vueltas colocada en el campo magnético?
+
+![imagen](https://user-images.githubusercontent.com/105812540/177707509-c63815d8-5028-4ae2-9a86-fb1f0de4734b.png)
+
 
 22. En la figura 10-33, ¿por qué no se induce voltaje cuando el disco no está girando?
 
 ![imagen](https://user-images.githubusercontent.com/105812540/177657987-e6712ff4-f8ca-4ee8-a86c-98bed0a7c617.png)
 
+No hay cambio en el campo magnético entonces no se produce un voltaje inducido
+
 24. Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltajede cd de salida a su pico (alcanza un máximo)?
 
+![imagen](https://user-images.githubusercontent.com/105812540/177707439-6c8f7c77-83bc-41ec-994a-8bd2df870381.png)
 
 # Video Explicativo 
 
