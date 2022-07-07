@@ -10,13 +10,13 @@ NRC: 7309
 
 # Objetivos
 
-•	Analizar tres métodos de resolver ecuaciones simultáneas ademas de sus metodos
+•	Analizar tres formas de resolver ecuaciones simultáneas ademas de los metodos para corriente y voltaje en circuitos. 
 
-•	Explicar los principios de un campo magnético, el electromagnetismo y de la operación de varios tipos de dispositivos electromagnéticos
+•	Explicar los principios de un campo magnético, el electromagnetismo y de la operación de varios tipos de dispositivos electromagnéticos.
 
-•	Explicar la histéresis magnética
+•	Explicar la histéresis magnética.
 
-•	Analizar el principio de inducción electromagnética
+•	Analizar el principio de inducción electromagnética.
 
 
 # Marco Teorico 
@@ -189,8 +189,11 @@ No hay cambio en el campo magnético entonces no se produce un voltaje inducido
 
 # Conclusiones 
 
+El uso de los tres formas para resolver ecuaciones simultáneas son muy buenas al momento de encontrar una solucion para un planteamiento de ecuaciones de un circuito.
 
+La aplicacion de los metodos para corriente y voltaje contienen sus propias formulas pero todo los problemas recaen en operaciones matemeticas basicas.
 
+La operacion de dispositivos tales como el relevador, el solenoide, y el altavoz está basada en parte en principios magneticos o electromagneticos.
 
 # Bibliografia 
 
