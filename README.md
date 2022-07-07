@@ -187,7 +187,7 @@ No hay cambio en el campo magnético entonces no se produce un voltaje inducido
 
 # Video Explicativo 
 
-
+https://www.youtube.com/watch?v=4O-yzZYfXdI
 
 # Conclusiones 
 
