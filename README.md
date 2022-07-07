@@ -1,4 +1,6 @@
-[imagen](https://user-images.githubusercontent.com/105812540/169170187-c196cd47-cab4-4ce5-9db3-5f7ce407d292.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/177709717-82548798-34b9-4948-817d-07e6aa31d92c.png)
+
 
 # Tarea-2-2P-Capitulo-9-10
 
