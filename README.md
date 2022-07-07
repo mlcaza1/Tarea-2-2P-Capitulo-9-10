@@ -54,34 +54,57 @@ NRC: 7309
 
 ![imagen](https://user-images.githubusercontent.com/105812540/177653594-aa2992ae-a4df-429b-baee-4f5461277507.png)
 
+![imagen](https://user-images.githubusercontent.com/105812540/177812278-1aa45470-2161-418b-aef9-ed79ff216293.png)
+
 4. Evalúe cada uno de los determinantes:
 
 ![imagen](https://user-images.githubusercontent.com/105812540/177653844-c39e230f-8d14-42e1-8bad-a1884cc7a66d.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/177812313-e038b303-aabb-4090-a0d4-449c2bafdf2c.png)
+
 
 6. Determine I3 en el ejemplo 9-4.
 
 ![imagen](https://user-images.githubusercontent.com/105812540/177654008-08656279-bc8a-4539-8588-963c462997d7.png)
 
+![imagen](https://user-images.githubusercontent.com/105812540/177812343-d6e956f0-df4b-4fa0-856d-962fd847b8cb.png)
+
 8. Determine V1, V2, V3 y V4 resolviendo el siguiente conjunto de ecuaciones con una calculadora:
 
 ![imagen](https://user-images.githubusercontent.com/105812540/177654377-c67b7d1d-5637-4054-9136-4a11f2b84eae.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/177813515-56f2ecfd-574f-40a4-a592-ad3d07c48e33.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/177813671-d082f45f-1de6-4358-afcb-94afa49e3ecc.png)
 
 10. Resuelva las tres ecuaciones simultáneas del problema 7 con su calculadora.
 
 ![imagen](https://user-images.githubusercontent.com/105812540/177654377-c67b7d1d-5637-4054-9136-4a11f2b84eae.png)
 
+![imagen](https://user-images.githubusercontent.com/105812540/177814039-a267fb31-da47-43af-bc5e-fcafd533b7cd.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/177814159-46ca340d-0527-45f7-94e1-c4be38eac96d.png)
+
+
 12. Resuelva para cada una de las corrientes de rama ilustradas en la figura 9-26.
 
 ![imagen](https://user-images.githubusercontent.com/105812540/177656727-0ff93dd9-4e58-4081-866c-d2f817af49b1.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/177812381-3e5f4583-9f49-4f8a-b300-355703cb60b6.png)
 
 14. Determine la corriente a través de cada resistor mostrado en la figura 9-27.
 
 ![imagen](https://user-images.githubusercontent.com/105812540/177656797-2837b625-14f7-4bf7-bd15-b34837fdcf6e.png)
 
+![imagen](https://user-images.githubusercontent.com/105812540/177812415-eae453b8-5a9a-4dac-b242-0d40c8658ecc.png)
+
 16. Escriba el determinante característico para las ecuaciones:
 
 ![imagen](https://user-images.githubusercontent.com/105812540/177656875-5258bfab-331c-467a-b55e-5c5f4e56adbe.png)
 
+![imagen](https://user-images.githubusercontent.com/105812540/177812457-2330dd5f-57ce-4ab7-a9fd-0ced2b13c3e6.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/177812488-da27c9ac-7458-4063-92f2-d2c627f41b50.png)
 
 18. Determine las corrientes de rama en la figura 9-28.
 
