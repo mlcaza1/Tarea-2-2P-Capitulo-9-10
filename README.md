@@ -46,6 +46,8 @@ NRC: 7309
 
 # Desarrollo de ejercicios 
 
+# Capitulo 9
+
 2. Evalúe cada determinante:
 
 ![imagen](https://user-images.githubusercontent.com/105812540/177653594-aa2992ae-a4df-429b-baee-4f5461277507.png)
@@ -116,6 +118,9 @@ NRC: 7309
 36. Abra el archivo P09-36 y mida los voltajes con respecto a tierra en las terminales de salida 1 y 2.
 
 38. Abra el archivo P09-38 y determine la falla.
+
+
+ # Capitulo-10
 
 2. En cierto campo magnético, el área de sección transversal es de 0.5 m2 y el flujo es de 1500 μWb. ¿Cuál es la densidad de flujo?
 
