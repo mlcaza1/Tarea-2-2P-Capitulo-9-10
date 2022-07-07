@@ -30,12 +30,25 @@ NRC: 7309
 
 # Capitulo 9
 
+![cap7-8(1)](https://user-images.githubusercontent.com/105812540/177706102-e9d55ee6-3ccc-4e40-b528-ce4b59206982.jpg)
 
+![cap7-8(2)](https://user-images.githubusercontent.com/105812540/177706362-07c05418-9911-4b67-b8e0-d76c7d853ac1.jpg)
+
+![cap7-8(3)](https://user-images.githubusercontent.com/105812540/177706474-4afabdcb-62c6-4923-871d-019d1f606e39.jpg)
+
+![cap7-8(4)](https://user-images.githubusercontent.com/105812540/177706561-02dcba7f-bb93-4a16-8c0a-cc0c0cc4fc10.jpg)
 
 # Capitulo 10
 
+![cap7-8(5)](https://user-images.githubusercontent.com/105812540/177706652-f2056b07-de41-45d4-b50a-3e9e38c7d3fc.jpg)
 
+![cap7-8(6)](https://user-images.githubusercontent.com/105812540/177706731-9deaf981-f90c-4a68-8305-1b0138f37460.jpg)
 
+![cap7-8(7)](https://user-images.githubusercontent.com/105812540/177706825-f3c5e6b3-de71-48f3-8fd8-5a9c430ffe27.jpg)
+
+![cap7-8(8)](https://user-images.githubusercontent.com/105812540/177706920-4e2f7b52-3fbd-46ed-b007-f95223c8556a.jpg)
+
+![cap7-8(9)](https://user-images.githubusercontent.com/105812540/177706996-ee7bc809-9ede-42ad-a357-667c36f8d029.jpg)
 
 
 # Desarrollo de ejercicios 
